@@ -12,7 +12,6 @@ Project ini adalah sistem manajemen inventaris barang yang terintegrasi dengan f
 ## 🛠️ Tech Stack
 * **Backend:** PHP (Framework Laravel)
 * **Database:** MySQL
-* **Frontend:** Blade Templating & Bootstrap
 * **Libraries:** DomPDF (untuk fitur cetak struk)
 * ---
 > **Catatan Penulis:**
